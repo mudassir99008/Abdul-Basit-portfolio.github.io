@@ -404,8 +404,9 @@ button{
     color:#fff;
     border:none;
     position:relative;
+    width: 145px;
     height:39.5px;
-    font-size:1.6em;
+    font-size:0.7.5em;
     padding:0 2em;
     cursor:pointer;
     transition:800ms ease all;
